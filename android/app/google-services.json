@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "33620163082",
+    "project_id": "adstab-e418e",
+    "storage_bucket": "adstab-e418e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33620163082:android:3e1ec299c8718ff2a03df3",
+        "android_client_info": {
+          "package_name": "com.adstap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuvrPWIO8DmHa6bEhiaiBYlnCzeb0sx2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33620163082:android:bfaeff80cadc98a0a03df3",
+        "android_client_info": {
+          "package_name": "com.example.bookify_rooms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuvrPWIO8DmHa6bEhiaiBYlnCzeb0sx2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
